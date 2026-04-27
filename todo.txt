@@ -1,0 +1,4 @@
+auto champ pick 
+auto ban 
+auto fill champ pick 
+auto 2nd pick
